@@ -1,0 +1,85 @@
+- git:
+    local-name: catkin
+    uri: https://github.com/ms-iot/catkin.git
+    version: init_windows
+- git:
+    local-name: class_loader
+    uri: https://github.com/ms-iot/class_loader.git
+    version: init_windows
+- git:
+    local-name: cmake_modules
+    uri: https://github.com/ros/cmake_modules.git
+    version: 0.4-devel
+- git:
+    local-name: gencpp
+    uri: https://github.com/ms-iot/gencpp.git
+    version: init_windows
+- git:
+    local-name: geneus
+    uri: https://github.com/jsk-ros-pkg/geneus.git
+    version: master
+- git:
+    local-name: genlisp
+    uri: https://github.com/ros/genlisp.git
+    version: groovy-devel
+- git:
+    local-name: genmsg
+    uri: https://github.com/ros/genmsg.git
+    version: indigo-devel
+- git:
+    local-name: gennodejs
+    uri: https://github.com/RethinkRobotics-opensource/gennodejs.git
+    version: kinetic-devel
+- git:
+    local-name: genpy
+    uri: https://github.com/ros/genpy.git
+    version: kinetic-devel
+- git:
+    local-name: message_generation
+    uri: https://github.com/ros/message_generation.git
+    version: kinetic-devel
+- git:
+    local-name: message_runtime
+    uri: https://github.com/ros/message_runtime.git
+    version: groovy-devel
+- git:
+    local-name: pluginlib
+    uri: https://github.com/ms-iot/pluginlib.git
+    version: init_windows
+- git:
+    local-name: ros
+    uri: https://github.com/ms-iot/ros.git
+    version: init_windows
+- git:
+    local-name: ros_comm
+    uri: https://github.com/ms-iot/ros_comm.git
+    version: init_windows
+- git:
+    local-name: ros_comm_msgs
+    uri: https://github.com/ros/ros_comm_msgs.git
+    version: indigo-devel
+- git:
+    local-name: ros_environment
+    uri: https://github.com/ms-iot/ros_environment.git
+    version: init_windows
+- git:
+    local-name: rosconsole
+    uri: https://github.com/ms-iot/rosconsole.git
+    version: init_windows
+- git:
+    local-name: roscpp_core
+    uri: https://github.com/ms-iot/roscpp_core.git
+    version: init_windows
+- git:
+    local-name: roslisp
+    uri: https://github.com/ros/roslisp.git
+    version: master
+- git:
+    local-name: rospack
+    uri: https://github.com/ms-iot/rospack.git
+    version: init_windows
+- git:
+    local-name: std_msgs
+    uri: https://github.com/ros/std_msgs.git
+    version: groovy-devel
+

@@ -1,0 +1,6 @@
+git+https://github.com/ros-infrastructure/rospkg@master#egg=rospkg
+git+https://github.com/ms-iot/catkin_pkg@init_windows#egg=catkin_pkg
+git+https://github.com/ms-iot/rosdep@init_windows#egg=rosdep
+git+https://github.com/ms-iot/vcstools@init_windows#egg=vcstools
+git+https://github.com/ms-iot/wstool@init_windows#egg=wstool
+git+https://github.com/ms-iot/rosinstall_generator@init_windows#egg=rosinstall_generator

@@ -1,0 +1,9 @@
+# os-specific listings first
+yaml https://raw.githubusercontent.com/ms-iot/rosdistro-db/init_windows/rosdep/osx-homebrew.yaml osx
+yaml https://raw.githubusercontent.com/ms-iot/rosdistro-db/init_windows/rosdep/win-chocolatey.yaml windows
+
+# generic
+yaml https://raw.githubusercontent.com/ms-iot/rosdistro-db/init_windows/rosdep/base.yaml
+yaml https://raw.githubusercontent.com/ms-iot/rosdistro-db/init_windows/rosdep/python.yaml
+yaml https://raw.githubusercontent.com/ms-iot/rosdistro-db/init_windows/rosdep/ruby.yaml
+gbpdistro https://raw.githubusercontent.com/ms-iot/rosdistro-db/init_windows/releases/fuerte.yaml fuerte
