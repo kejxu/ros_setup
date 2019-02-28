@@ -2,8 +2,13 @@ important point of contact for ROS projects
 
 `ros`
 - @dirk-thomas,
-- @nuclearsandwich,
+- @tfoote, tfoote@osrfoundation.org
 - @wjwwood, wjwwood@gmail.com
+- @clalancette,
+- @mjcarroll, michael@openrobotics.org
+- @nuclearsandwich,
+- @sloretz,
+- @trainman419,
 - @mikaelarguedas, mikael.arguedas@gmail.com
 
 `ros-controls`
