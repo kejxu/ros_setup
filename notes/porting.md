@@ -27,3 +27,7 @@ daily build
 CI
 - https://github.com/seanyen-msft/rosonwindows_ci/blob/master/build.yml
 - https://github.com/ros-industrial/industrial_ci/tree/master/industrial_ci
+
+
+## `ms-iot` ROS repo redirection
+https://github.com/ms-iot/rosdistro-db/commits/init_windows
