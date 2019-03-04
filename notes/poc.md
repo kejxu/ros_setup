@@ -10,6 +10,7 @@ important point of contact for ROS projects
 - @sloretz,
 - @trainman419,
 - @mikaelarguedas, mikael.arguedas@gmail.com
+- @rhaschke
 
 `ros-controls`
 - @ipa-mdl, mathias.luedtke@ipa.fraunhofer.de
