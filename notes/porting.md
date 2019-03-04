@@ -18,3 +18,12 @@ note from Sean
 > The important part is to run:\
 > `<include file="$(find turtlebot3_bringup)/launch/includes/description.launch.xml">    <arg name="model" value="$(arg model)" />   </include>`\
 > It will use xacro to convert the xacro URDF into an formatted xml
+
+## ROS Build
+daily build
+- https://dev.azure.com/seanyen2018/default/_git/ros_build?path=%2Fazure-pipelines.yml&version=GBmaster
+- https://ros-win.visualstudio.com/_git/ros-win?path=%2Ftools%2FBuildROS.ps1&version=GBmaster
+
+CI
+- https://github.com/seanyen-msft/rosonwindows_ci/blob/master/build.yml
+- https://github.com/ros-industrial/industrial_ci/tree/master/industrial_ci
