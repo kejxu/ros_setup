@@ -82,3 +82,4 @@
 9. explore `rosserial` by following [its tutorials](http://wiki.ros.org/rosserial_arduino/Tutorials)
 
     *note: certain `#define` flags need to be added for specific platforms, check [rosserial_arduino](http://wiki.ros.org/rosserial_arduino) for details*
+    - especially, add `#define USE_USBCON` for Arduino based on 32u4: Leonardo, Micro
