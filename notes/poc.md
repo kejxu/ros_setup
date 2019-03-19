@@ -8,9 +8,11 @@ important point of contact for ROS projects
 - @mjcarroll, michael@openrobotics.org
 - @nuclearsandwich,
 - @sloretz,
-- @trainman419,
 - @mikaelarguedas, mikael.arguedas@gmail.com
 - @rhaschke
+
+`ros/diagnostics`
+- @trainman419,
 
 `ros-controls`
 - @ipa-mdl, mathias.luedtke@ipa.fraunhofer.de
@@ -18,3 +20,4 @@ important point of contact for ROS projects
 
 `ros-perception`
 - @jonbinney,
+- @LucidOne,
